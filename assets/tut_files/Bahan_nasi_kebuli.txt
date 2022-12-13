@@ -1,0 +1,340 @@
+1
+-
+Bahan nasi kebuli\Bahan nasi kebuli0.jpg
+;
+224
+304
+624
+604
+pointermouse16.bmp
+304
+331
+-999
+-999
+;-
+Bahan-bahan nasi kebuli 
+kambing
+;
+60
+0
+460
+300
+pointermouse16.bmp
+323
+54
+-999
+-999
+;-
+Bahan-bahannya:
+;
+224
+0
+624
+300
+pointermouse2.bmp
+516
+31
+-999
+-999
+;-
+250-300 gr daging 
+kambing
+;
+116
+0
+516
+300
+pointermouse2.bmp
+258
+176
+-999
+-999
+;-
+2 peres beras lokal 
+(long grain) 
+;
+116
+0
+516
+300
+pointermouse2.bmp
+297
+144
+-999
+-999
+;-
+3 buah tomat merah 
+haluskan
+;
+164
+0
+564
+300
+pointermouse16.bmp
+300
+183
+-999
+-999
+;-
+Bumbu halus:
+;
+164
+0
+564
+300
+pointermouse2.bmp
+305
+215
+-999
+-999
+;-
+1 siung bawang 
+bombay/sesuai selera
+;
+164
+0
+564
+300
+pointermouse2.bmp
+308
+241
+-999
+-999
+;-
+8 siung bawang putih
+;
+164
+0
+564
+300
+pointermouse2.bmp
+305
+269
+-999
+-999
+;-
+10 siung bawang merah
+;
+40
+224
+440
+524
+pointermouse2.bmp
+110
+298
+-999
+-999
+;-
+1 ruas jari jahe
+;
+328
+52
+728
+352
+pointermouse16.bmp
+618
+78
+-999
+-999
+;-
+Rempah haluskan:
+;
+328
+52
+728
+352
+pointermouse2.bmp
+502
+120
+-999
+-999
+;-
+1 sdm jinteng 
+halus/sesuai selera
+;
+328
+52
+728
+352
+pointermouse2.bmp
+615
+174
+-999
+-999
+;-
+1 sdm lada bubuk/sesuai 
+selera
+;
+328
+52
+728
+352
+pointermouse2.bmp
+515
+208
+-999
+-999
+;-
+1 sdm ketumbar 
+halus/sesuai selera
+;
+328
+52
+728
+352
+pointermouse2.bmp
+523
+251
+-999
+-999
+;-
+1 sdm kapulaga 
+halus/sesuai selera
+;
+400
+56
+800
+356
+pointermouse16.bmp
+638
+121
+-999
+-999
+;-
+Bahan geprek :
+;
+400
+0
+800
+300
+pointermouse2.bmp
+722
+163
+-999
+-999
+;-
+2 Batang kayu manis
+;
+400
+0
+800
+300
+pointermouse2.bmp
+712
+203
+-999
+-999
+;-
+5 biji cengkeh
+;
+400
+0
+800
+300
+pointermouse2.bmp
+652
+237
+-999
+-999
+;-
+7 kapulaga utuh/sesuai 
+selera
+;
+400
+232
+800
+532
+pointermouse2.bmp
+657
+288
+-999
+-999
+;-
+2 Batang sereh
+;
+412
+28
+812
+328
+pointermouse2.bmp
+803
+315
+-999
+-999
+;-
+3 helai daun salam 
+koja/1 daun salam biasa
+;
+412
+28
+812
+328
+pointermouse2.bmp
+809
+347
+-999
+-999
+;-
+5 buah cabe hijau utuh
+;
+412
+28
+812
+328
+pointermouse2.bmp
+793
+378
+-999
+-999
+;-
+100 ml santan instan
+;
+400
+300
+800
+600
+pointermouse2.bmp
+727
+403
+-999
+-999
+;-
+1 sachet susu dancow
+;
+288
+184
+688
+484
+pointermouse2.bmp
+774
+441
+-999
+-999
+;-
+1 liter air
+;
+288
+184
+688
+484
+pointermouse2.bmp
+783
+469
+-999
+-999
+;-
+4 sdm margarin
+;
+288
+184
+688
+484
+pointermouse2.bmp
+642
+500
+-999
+-999
+;-
+sesuai selera Garam, 
+gula, bawang goreng
+.

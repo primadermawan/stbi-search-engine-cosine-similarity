@@ -1,0 +1,177 @@
+1
+-
+vitaminD\vitaminD0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+72
+29
+-999
+-999
+;-
+Daftar makanan yang 
+mengandung vitamin D 
+;
+0
+0
+400
+300
+pointermouse16.bmp
+262
+18
+-999
+-999
+;-
+Makanan mengandung 
+vitamin D cukup mampu 
+mengurangi risiko 
+seseorang untuk 
+terinfeksi COVID-19.
+;
+0
+0
+400
+300
+pointermouse2.bmp
+348
+57
+-999
+-999
+;-
+Beberapa daftarnya:
+;
+0
+0
+400
+300
+pointermouse2.bmp
+52
+133
+-999
+-999
+;-
+1. Udang
+;
+0
+0
+400
+300
+pointermouse2.bmp
+279
+145
+-999
+-999
+;-
+2. Tuna
+;
+360
+0
+760
+300
+pointermouse2.bmp
+510
+117
+-999
+-999
+;-
+3. Makarel
+;
+400
+0
+800
+300
+pointermouse2.bmp
+721
+113
+-999
+-999
+;-
+4. Kuning telur
+;
+0
+52
+400
+352
+pointermouse2.bmp
+81
+314
+-999
+-999
+;-
+5. Susu
+;
+0
+52
+400
+352
+pointermouse2.bmp
+224
+287
+-999
+-999
+;-
+6. Daging
+;
+348
+72
+748
+372
+pointermouse2.bmp
+450
+310
+-999
+-999
+;-
+7. Sarden
+;
+400
+140
+800
+440
+pointermouse2.bmp
+650
+335
+-999
+-999
+;-
+8. Sereal
+;
+0
+304
+400
+604
+pointermouse2.bmp
+150
+491
+-999
+-999
+;-
+9. Salmon
+;
+252
+304
+652
+604
+pointermouse2.bmp
+379
+522
+-999
+-999
+;-
+10. Minyak ikan
+;
+400
+304
+800
+604
+pointermouse2.bmp
+624
+529
+-999
+-999
+;-
+11. Jamur
+.

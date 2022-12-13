@@ -1,0 +1,83 @@
+1
+-
+Sel\Sel0.jpg
+;
+24
+44
+424
+344
+pointermouse16.bmp
+173
+102
+-999
+-999
+;-
+Bagian-bagian sel
+;
+0
+60
+400
+360
+pointermouse2.bmp
+152
+213
+-999
+-999
+;-
+Ini adalah sel makhluk 
+hidup
+;
+28
+192
+428
+492
+pointermouse2.bmp
+212
+375
+-999
+-999
+;-
+Ini adalah nukleus atau 
+inti sel
+;
+288
+208
+688
+508
+pointermouse2.bmp
+435
+355
+-999
+-999
+;-
+Pada inti sel terletak 
+kromosom
+;
+400
+204
+800
+504
+pointermouse2.bmp
+606
+324
+-999
+-999
+;-
+Pada kromosom terdapat 
+DNA
+;
+308
+220
+708
+520
+pointermouse2.bmp
+597
+397
+-999
+-999
+;-
+DNA ini yang 
+menentukan sifat dan 
+karakteristik makhluk 
+hidup
+.

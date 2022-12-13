@@ -1,0 +1,140 @@
+1
+-
+umbiku\umbiku0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+192
+33
+-999
+-999
+;-
+Mengenal 
+perkembangbiakan 
+tanaman dengan umbi
+;
+232
+0
+632
+300
+pointermouse16.bmp
+403
+34
+-999
+-999
+;-
+Perkembangbiakan 
+tumbuhan dapat 
+dilakukan dengan umbi
+;
+232
+0
+632
+300
+pointermouse16.bmp
+405
+113
+-999
+-999
+;-
+Berikut beberapa 
+tanaman/tumbuhan yang 
+melakukan 
+perkembangbiakan 
+dengan umbi
+;
+0
+0
+400
+300
+pointermouse16.bmp
+212
+109
+-999
+-999
+;-
+Ada umbi batang, umbi 
+lapis, dan umbi akar
+;
+0
+116
+400
+416
+pointermouse2.bmp
+111
+202
+-999
+-999
+;-
+Ini ubi jalar
+;
+0
+116
+400
+416
+pointermouse2.bmp
+115
+249
+-999
+-999
+;-
+Ubi jalar dan kentang 
+berkembang biak 
+dengan umbi batang
+;
+180
+0
+580
+300
+pointermouse2.bmp
+335
+186
+-999
+-999
+;-
+Bawang berkembang 
+biak dengan umbi lapis
+;
+400
+304
+800
+604
+pointermouse2.bmp
+641
+514
+-999
+-999
+;-
+Bunga bakung juga 
+berkembang biak 
+dengan umbi lapis
+;
+0
+288
+400
+588
+pointermouse2.bmp
+251
+494
+-999
+-999
+;-
+Ini singkong
+;
+0
+288
+400
+588
+pointermouse2.bmp
+299
+465
+-999
+-999
+;-
+Singkong dan wortel 
+berkembang biak 
+dengan umbi akar
+.

@@ -1,0 +1,93 @@
+1
+-
+kakikukeko\kakikukeko0.jpg
+;
+0
+104
+400
+404
+pointermouse16.bmp
+128
+197
+-999
+-999
+;-
+Belajar alfabet 
+hiragana jepang
+;
+0
+124
+400
+424
+pointermouse2.bmp
+77
+299
+-999
+-999
+;-
+Berikut adalah hiragana 
+jepang yang meliputi 
+alfabet ka, ki, ku, ke, ko
+;
+0
+304
+400
+604
+pointermouse2.bmp
+116
+470
+-999
+-999
+;-
+Ini adalah alfabet ka, 
+misalnya digunakan 
+untuk menulis desuka
+;
+0
+304
+400
+604
+pointermouse2.bmp
+240
+449
+-999
+-999
+;-
+Ini adalah alfabet ki
+;
+264
+304
+664
+604
+pointermouse2.bmp
+376
+495
+-999
+-999
+;-
+Ini adalah alfabet ku
+;
+264
+304
+664
+604
+pointermouse2.bmp
+542
+491
+-999
+-999
+;-
+Ini adalah alfabet ke
+;
+400
+304
+800
+604
+pointermouse2.bmp
+694
+500
+-999
+-999
+;-
+Ini adalah alfabet ko
+.

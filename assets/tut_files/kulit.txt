@@ -1,0 +1,173 @@
+3
+-
+kulit\kulit0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+55
+55
+-999
+-999
+;-
+Selamat datang dan 
+bertemu kembali
+;
+0
+0
+400
+300
+pointermouse16.bmp
+213
+42
+-999
+-999
+;-
+Berikut adalah tutorial 
+tentang bagian-bagian 
+kulit manusia
+;
+0
+104
+400
+404
+pointermouse2.bmp
+4
+180
+-999
+-999
+;-
+Ini adalah epidermis
+;
+0
+104
+400
+404
+pointermouse2.bmp
+5
+207
+-999
+-999
+;-
+Ini adalah Epidermis
+;
+260
+56
+660
+356
+pointermouse2.bmp
+467
+114
+-999
+-999
+;-
+Ini adalah helai rambut
+;
+0
+212
+400
+512
+pointermouse2.bmp
+4
+246
+6
+456
+;-
+Ini adalah Dermis
+-
+kulit\kulit1.jpg
+;
+0
+304
+400
+604
+pointermouse2.bmp
+5
+462
+6
+515
+;-
+Ini adalah Lapisan 
+subkutan
+-
+kulit\kulit2.jpg
+;
+400
+36
+800
+336
+pointermouse2.bmp
+688
+244
+-999
+-999
+;-
+Ini adalah Kapiler
+;
+132
+212
+532
+512
+pointermouse2.bmp
+338
+314
+-999
+-999
+;-
+Ini adalah kelenjar 
+minyak
+;
+176
+304
+576
+604
+pointermouse2.bmp
+485
+468
+-999
+-999
+;-
+Ini adalah Serabut 
+saraf
+;
+396
+304
+796
+604
+pointermouse2.bmp
+708
+560
+-999
+-999
+;-
+Ini adalah pembuluh 
+darah
+;
+396
+304
+796
+604
+pointermouse2.bmp
+661
+580
+-999
+-999
+;-
+Ini adalah pembuluh 
+darah
+;
+52
+304
+452
+604
+pointermouse2.bmp
+240
+415
+-999
+-999
+;-
+Ini adalah folikel 
+rambut
+.

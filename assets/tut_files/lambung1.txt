@@ -1,0 +1,191 @@
+1
+-
+lambung1\lambung10.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+97
+77
+-999
+-999
+;-
+Mengenal anatomi 
+lambung
+;
+100
+4
+500
+304
+pointermouse16.bmp
+206
+149
+-999
+-999
+;-
+Lambung: organ berotot 
+yang ada di bagian kiri 
+atas perut, di antara 
+kerongkongan dan usus 
+kecil
+;
+324
+0
+724
+300
+pointermouse2.bmp
+393
+33
+-999
+-999
+;-
+Ini kerongkongan
+;
+0
+304
+400
+604
+pointermouse2.bmp
+79
+458
+-999
+-999
+;-
+Ini usus kecil
+;
+0
+44
+400
+344
+pointermouse16.bmp
+316
+258
+-999
+-999
+;-
+Lambung berfungsi 
+untuk mencerna makanan
+;
+120
+200
+520
+500
+pointermouse16.bmp
+207
+306
+-999
+-999
+;-
+Lambung merupakan 
+organ terpenting pada 
+sistem pencernaan.
+;
+324
+0
+724
+300
+pointermouse2.bmp
+445
+174
+-999
+-999
+;-
+Ini kardiak
+;
+40
+244
+440
+544
+pointermouse2.bmp
+197
+355
+-999
+-999
+;-
+Ini pilorus
+;
+388
+0
+788
+300
+pointermouse2.bmp
+631
+94
+-999
+-999
+;-
+Ini fundus
+;
+400
+220
+800
+520
+pointermouse2.bmp
+630
+268
+-999
+-999
+;-
+;
+400
+220
+800
+520
+pointermouse2.bmp
+616
+308
+-999
+-999
+;-
+Ini rugae
+;
+400
+220
+800
+520
+pointermouse2.bmp
+638
+424
+-999
+-999
+;-
+Ini serosa
+;
+400
+220
+800
+520
+pointermouse2.bmp
+511
+476
+-999
+-999
+;-
+Ini mukkosa
+;
+132
+304
+532
+604
+pointermouse2.bmp
+275
+541
+-999
+-999
+;-
+Ini antrum
+;
+0
+220
+400
+520
+pointermouse2.bmp
+76
+432
+-999
+-999
+;-
+Ini usus duodenum
+.

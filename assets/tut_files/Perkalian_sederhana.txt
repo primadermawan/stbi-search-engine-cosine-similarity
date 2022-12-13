@@ -1,0 +1,207 @@
+1
+-
+Perkalian sederhana\Perkalian sederhana0.jpg
+;
+16
+0
+416
+300
+pointermouse16.bmp
+212
+44
+-999
+-999
+;-
+Perkalian sederhana
+;
+400
+0
+800
+300
+pointermouse2.bmp
+439
+26
+-999
+-999
+;-
+Perkalian adalah 
+penjumlahan berulang, 
+misalnya 3 x 3 artinya 
+3 dijumlahkan sebanyak 
+3 kali
+;
+0
+52
+400
+352
+pointermouse2.bmp
+37
+214
+-999
+-999
+;-
+Misalnya ada 3 permen 
+dalam satu kotak
+;
+0
+156
+400
+456
+pointermouse2.bmp
+33
+233
+-999
+-999
+;-
+Lalu ada ada 3 kotak
+;
+0
+156
+400
+456
+pointermouse2.bmp
+77
+175
+-999
+-999
+;-
+Ini kotak pertama
+;
+172
+0
+572
+300
+pointermouse2.bmp
+288
+176
+-999
+-999
+;-
+Ini kotak kedua
+;
+324
+12
+724
+312
+pointermouse2.bmp
+500
+171
+-999
+-999
+;-
+Ini kotak ketiga
+;
+400
+36
+800
+336
+pointermouse2.bmp
+684
+172
+-999
+-999
+;-
+Sehingga total ada 3 
+kotak yang masing-
+masing berisi 3 permen
+;
+400
+36
+800
+336
+pointermouse2.bmp
+704
+268
+-999
+-999
+;-
+Jadi totalnya ada 9 
+permen
+;
+0
+168
+400
+468
+pointermouse2.bmp
+95
+391
+-999
+-999
+;-
+3 permen di kotak 1
+;
+0
+168
+400
+468
+pointermouse2.bmp
+303
+391
+-999
+-999
+;-
+3 permen di kotak 2
+;
+336
+180
+736
+480
+pointermouse2.bmp
+508
+397
+-999
+-999
+;-
+3 permen di kotak 3
+;
+400
+152
+800
+452
+pointermouse2.bmp
+706
+395
+-999
+-999
+;-
+jawabannya adalah 9 
+permen
+;
+276
+304
+676
+604
+pointermouse2.bmp
+297
+513
+-999
+-999
+;-
+Sama saja dengan 3 
+permen dalam 1 kotak
+;
+276
+304
+676
+604
+pointermouse2.bmp
+505
+514
+-999
+-999
+;-
+dikalikan jumlah kotak 
+yaitu 3, jadinya 3 x 3
+;
+400
+304
+800
+604
+pointermouse2.bmp
+700
+510
+-999
+-999
+;-
+Jawabannya juga 9
+.

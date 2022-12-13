@@ -1,0 +1,419 @@
+8
+-
+dimsum\dimsum0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+96
+94
+-999
+-999
+;-
+Bahan-bahan membuat 
+dimsum
+;
+280
+0
+680
+300
+pointermouse2.bmp
+423
+53
+-999
+-999
+;-
+1. 500 gr daging ayam 
+giling
+;
+280
+0
+680
+300
+pointermouse2.bmp
+425
+107
+-999
+-999
+;-
+2. 100 gr udang blender
+;
+280
+0
+680
+300
+pointermouse2.bmp
+360
+125
+-999
+-999
+;-
+3. 2 batang daun 
+bawang
+;
+280
+0
+680
+300
+pointermouse2.bmp
+501
+167
+-999
+-999
+;-
+4. 4 siung bawang putih
+;
+280
+0
+680
+300
+pointermouse2.bmp
+338
+202
+-999
+-999
+;-
+5. 2 butir telur ayam
+;
+280
+0
+680
+300
+pointermouse2.bmp
+487
+213
+-999
+-999
+;-
+6. 200 gr tepung 
+tapioka
+;
+276
+128
+676
+428
+pointermouse2.bmp
+363
+254
+-999
+-999
+;-
+7. Garam secukupnya
+;
+276
+128
+676
+428
+pointermouse2.bmp
+296
+233
+-999
+-999
+;-
+8. 1/2 sendok teh lada 
+putih
+;
+276
+128
+676
+428
+pointermouse2.bmp
+526
+269
+-999
+-999
+;-
+9. 1 sendok makan saus 
+tiram
+;
+276
+128
+676
+428
+pointermouse2.bmp
+289
+275
+-999
+-999
+;-
+10. 1.5 sendok makan 
+minyak wijen
+;
+276
+128
+676
+428
+pointermouse2.bmp
+620
+260
+-999
+-999
+;-
+11. 1 sendok makan 
+kecap asin
+;
+276
+128
+676
+428
+pointermouse2.bmp
+628
+211
+-999
+-999
+;-
+12. 1 buah wortel/parut 
+halus
+;
+400
+116
+800
+416
+pointermouse2.bmp
+665
+150
+-999
+-999
+;-
+13. 1 sachet kaldu jamur 
+merang
+-
+dimsum\dimsum1.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+99
+69
+-999
+-999
+;-
+Langkah-langkah 
+pembautannya:
+;
+324
+200
+724
+500
+pointermouse2.bmp
+418
+339
+-999
+-999
+;-
+Haluskan/blender ayam 
+fillet dan udang
+-
+dimsum\dimsum2.jpg
+;
+132
+156
+532
+456
+pointermouse2.bmp
+233
+256
+-999
+-999
+;-
+Siapkan bahan-bahan 
+lainnya
+;
+72
+112
+472
+412
+pointermouse2.bmp
+153
+200
+-999
+-999
+;-
+Seperti kecap asin dan 
+saus tiram
+-
+dimsum\dimsum3.jpg
+;
+40
+0
+440
+300
+pointermouse2.bmp
+255
+154
+-999
+-999
+;-
+Iris tipis daun bawang
+;
+384
+172
+784
+472
+pointermouse2.bmp
+605
+269
+-999
+-999
+;-
+Cincang halus bawang 
+putih
+;
+140
+232
+540
+532
+pointermouse2.bmp
+284
+338
+-999
+-999
+;-
+Kemudian campurkan 
+dgn daging halus dan 
+telur
+-
+dimsum\dimsum4.jpg
+;
+292
+116
+692
+416
+pointermouse2.bmp
+433
+290
+-999
+-999
+;-
+Kemudian campurkan 
+semua bahan 
+lainnya hingga 
+tercampur rata
+-
+dimsum\dimsum5.jpg
+;
+196
+16
+596
+316
+pointermouse2.bmp
+304
+85
+-999
+-999
+;-
+Siapkan kulit 
+pangsit
+;
+368
+0
+768
+300
+pointermouse2.bmp
+573
+48
+-999
+-999
+;-
+Siapkan pula parutan 
+wortel untuk topingnya
+;
+228
+276
+628
+576
+pointermouse2.bmp
+375
+426
+-999
+-999
+;-
+Beri isian
+;
+172
+0
+572
+300
+pointermouse2.bmp
+403
+207
+-999
+-999
+;-
+Sisipkan dikulit pangsit 
+lalu lipat ala dimsum, 
+ulangi hingga bahan 
+habis
+-
+dimsum\dimsum6.jpg
+;
+20
+188
+420
+488
+pointermouse2.bmp
+176
+256
+-999
+-999
+;-
+Setelah semua bahan 
+habis, panaskan kukusan
+;
+332
+304
+732
+604
+pointermouse2.bmp
+433
+387
+-999
+-999
+;-
+Kemudian kukus dimsum 
+kurang lebih 25-
+30menit
+-
+dimsum\dimsum7.jpg
+;
+108
+108
+508
+408
+pointermouse2.bmp
+237
+205
+-999
+-999
+;-
+Dimsum siap disajikan
+;
+328
+124
+728
+424
+pointermouse2.bmp
+449
+251
+-999
+-999
+;-
+Sajikan dengan saus 
+sambal
+;
+252
+212
+652
+512
+pointermouse2.bmp
+427
+346
+-999
+-999
+;-
+Selamat mencoba
+.

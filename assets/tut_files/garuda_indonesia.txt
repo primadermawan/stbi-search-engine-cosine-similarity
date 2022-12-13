@@ -1,0 +1,194 @@
+1
+-
+garuda indonesia\garuda indonesia0.jpg
+;
+32
+0
+432
+300
+pointermouse16.bmp
+122
+28
+-999
+-999
+;-
+Mengenal lambang 
+negara RI, burung 
+Garuda Pancasila
+;
+32
+0
+432
+300
+pointermouse2.bmp
+302
+27
+-999
+-999
+;-
+Jumlah bulu burung 
+Garuda Pancasila 
+melambangkan hari 
+Proklamasi Kemerdekaan 
+Indonesia
+;
+316
+0
+716
+300
+pointermouse2.bmp
+486
+46
+-999
+-999
+;-
+Pada tanggal 17-8-1945
+;
+316
+0
+716
+300
+pointermouse2.bmp
+431
+167
+-999
+-999
+;-
+45 helai bulu di leher
+;
+316
+0
+716
+300
+pointermouse2.bmp
+650
+199
+-999
+-999
+;-
+17 helai bulu pada 
+masing-masing sayap
+;
+56
+108
+456
+408
+pointermouse2.bmp
+139
+253
+-999
+-999
+;-
+17 helai bulu
+;
+152
+304
+552
+604
+pointermouse2.bmp
+397
+466
+-999
+-999
+;-
+19 helai bulu di bawah 
+perisai atau pada 
+pangkal ekor
+;
+172
+304
+572
+604
+pointermouse2.bmp
+376
+572
+-999
+-999
+;-
+8 helai bulu pada ekor
+;
+160
+112
+560
+412
+pointermouse16.bmp
+396
+324
+-999
+-999
+;-
+Gambar pada 
+perisai burung Garuda 
+melambangkan kelima 
+sila pada Pancasila 
+;
+160
+112
+560
+412
+pointermouse2.bmp
+366
+311
+-999
+-999
+;-
+Sila 1 yaitu 'Ketuhanan 
+yang Maha Esa'
+;
+320
+304
+720
+604
+pointermouse2.bmp
+412
+415
+-999
+-999
+;-
+Sila 2, 'Kemanusiaan 
+yang Adil dan Beradab'
+;
+264
+76
+664
+376
+pointermouse2.bmp
+480
+254
+-999
+-999
+;-
+Sila 3, 'Persatuan 
+Indonesia'
+;
+84
+168
+484
+468
+pointermouse2.bmp
+297
+247
+-999
+-999
+;-
+Sila 4, 'Kerakyatan 
+yang dipimpin oleh 
+Hikmat Kebijaksanaan 
+dalam 
+Permusyawaratan/Perwa
+kilan'
+;
+84
+168
+484
+468
+pointermouse2.bmp
+353
+404
+-999
+-999
+;-
+Sila 5, 'Keadilan Sosial 
+bagi Seluruh Rakyat 
+Indonesia'
+.

@@ -1,0 +1,185 @@
+11
+-
+Tata surya\Tata surya0.jpg
+;
+152
+156
+552
+456
+pointermouse16.bmp
+291
+232
+-999
+-999
+;-
+Belajar tata surya
+;
+280
+148
+680
+448
+pointermouse2.bmp
+386
+312
+-999
+-999
+;-
+Pusat tata surya kita 
+adalah bintang bernama 
+matahari
+-
+Tata surya\Tata surya1.jpg
+;
+280
+148
+680
+448
+pointermouse2.bmp
+417
+248
+-999
+-999
+;-
+Selanjutnya paling 
+dekat matahari adalah 
+planet merkurius
+-
+Tata surya\Tata surya2.jpg
+;
+280
+148
+680
+448
+pointermouse2.bmp
+431
+265
+-999
+-999
+;-
+Berikutnya adalah 
+planet venus
+-
+Tata surya\Tata surya3.jpg
+;
+280
+148
+680
+448
+pointermouse2.bmp
+357
+239
+-999
+-999
+;-
+Berikutnya adalah 
+planet bumi 
+tempat tinggal kita 
+sekarang
+-
+Tata surya\Tata surya4.jpg
+;
+280
+148
+680
+448
+pointermouse2.bmp
+362
+252
+-999
+-999
+;-
+Planet bumi dikelilingi 
+oleh bulan. Bulan adalah 
+satelit alami bumi.
+-
+Tata surya\Tata surya5.jpg
+;
+280
+148
+680
+448
+pointermouse2.bmp
+392
+291
+-999
+-999
+;-
+Setelah bumi ada planet 
+mars
+-
+Tata surya\Tata surya6.jpg
+;
+280
+148
+680
+448
+pointermouse2.bmp
+375
+282
+-999
+-999
+;-
+Berikutnya ada planet 
+jupiter
+-
+Tata surya\Tata surya7.jpg
+;
+188
+180
+588
+480
+pointermouse2.bmp
+360
+240
+-999
+-999
+;-
+Berikutnya adalah 
+planet saturnus
+-
+Tata surya\Tata surya8.jpg
+;
+236
+164
+636
+464
+pointermouse2.bmp
+314
+276
+-999
+-999
+;-
+Selanjutnya adalah 
+planet uranus
+-
+Tata surya\Tata surya9.jpg
+;
+216
+148
+616
+448
+pointermouse2.bmp
+315
+249
+-999
+-999
+;-
+Berikutnya adalah 
+planet neptunus
+-
+Tata surya\Tata surya10.jpg
+;
+216
+148
+616
+448
+pointermouse2.bmp
+331
+270
+-999
+-999
+;-
+Dan planet yang terjauh 
+dari matahari di tata 
+surya kita adalah pluto
+.

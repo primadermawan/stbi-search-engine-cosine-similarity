@@ -1,0 +1,178 @@
+1
+-
+jam\jam0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+80
+81
+-999
+-999
+;-
+Cara membaca jarum 
+jam
+;
+144
+0
+544
+300
+pointermouse16.bmp
+267
+46
+-999
+-999
+;-
+Angka jam yang berlaku 
+adalah yang ditunjuk 
+oleh jarum pendek
+;
+144
+0
+544
+300
+pointermouse16.bmp
+273
+103
+-999
+-999
+;-
+Atau angka yang baru 
+dilewati jarum pendek
+;
+144
+0
+544
+300
+pointermouse2.bmp
+213
+253
+-999
+-999
+;-
+Ini adalah jarum pendek
+;
+196
+0
+596
+300
+pointermouse16.bmp
+434
+101
+-999
+-999
+;-
+Angka menit adalah 
+jumlah garis skala yang 
+telah dilewati oleh 
+jarum panjang
+;
+324
+0
+724
+300
+pointermouse16.bmp
+528
+179
+-999
+-999
+;-
+dihitung dari 0 (pada 
+posisi angka 12)
+;
+400
+112
+800
+412
+pointermouse2.bmp
+500
+259
+-999
+-999
+;-
+Ini adalah jarum 
+panjang
+;
+0
+164
+400
+464
+pointermouse2.bmp
+191
+208
+-999
+-999
+;-
+Pada contoh disini, 
+jarum pendek telah 
+melewati angka 11 
+;
+0
+164
+400
+464
+pointermouse2.bmp
+260
+286
+-999
+-999
+;-
+Jarum panjang menunjuk 
+menit ke 12
+;
+0
+164
+400
+464
+pointermouse2.bmp
+205
+345
+-999
+-999
+;-
+Jadi jam 11.12 (jam 11 
+lewat 12 menit)
+;
+340
+148
+740
+448
+pointermouse2.bmp
+558
+374
+-999
+-999
+;-
+Pada contoh ini, jam 
+pendek TELAH 
+melewati angka 5 (baru 
+akan menuju angka 6)
+;
+340
+148
+740
+448
+pointermouse2.bmp
+488
+245
+-999
+-999
+;-
+Jarum panjang menunjuk 
+menit ke 52
+;
+340
+148
+740
+448
+pointermouse2.bmp
+493
+337
+-999
+-999
+;-
+Jadi jam 5.52 (jam 5 
+lewat 52 menit)
+.

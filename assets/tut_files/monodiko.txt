@@ -1,0 +1,191 @@
+1
+-
+monodiko\monodiko0.jpg
+;
+8
+60
+408
+360
+pointermouse16.bmp
+34
+257
+-999
+-999
+;-
+Mengenal perbedaan 
+tumbuhan dikotil dan 
+monokotil
+;
+8
+60
+408
+360
+pointermouse2.bmp
+124
+125
+-999
+-999
+;-
+Ini adalah kotiledon
+;
+8
+60
+408
+360
+pointermouse2.bmp
+122
+94
+-999
+-999
+;-
+Tanaman dikotil 
+memiliki 2 kotiledon
+;
+8
+60
+408
+360
+pointermouse2.bmp
+270
+151
+-999
+-999
+;-
+Pada dikotil, 
+pertulangan daun 
+menyirip, menjari
+;
+340
+0
+740
+300
+pointermouse2.bmp
+425
+49
+-999
+-999
+;-
+Kambium ada, berkas 
+pengangkut melingkar
+;
+340
+0
+740
+300
+pointermouse2.bmp
+585
+119
+-999
+-999
+;-
+Bagian bunga kelipatan 
+2,4, atau 5
+;
+400
+0
+800
+300
+pointermouse2.bmp
+722
+55
+-999
+-999
+;-
+Akar tanaman dikotil 
+adalah akar tunggang
+;
+0
+296
+400
+596
+pointermouse2.bmp
+98
+440
+-999
+-999
+;-
+Pada tanaman monokotil, 
+ini adalah kotiledon
+;
+0
+296
+400
+596
+pointermouse2.bmp
+93
+441
+-999
+-999
+;-
+Tanaman monokotil 
+hanya memiliki 1 
+kotiledon
+;
+0
+296
+400
+596
+pointermouse2.bmp
+81
+434
+-999
+-999
+;-
+Kotiledon adalah bakal 
+atau calon daun
+;
+0
+296
+400
+596
+pointermouse2.bmp
+253
+414
+-999
+-999
+;-
+Tanaman monokotil 
+memiliki pertulangan 
+daun sejajar, 
+melengkung
+;
+272
+252
+672
+552
+pointermouse2.bmp
+417
+379
+-999
+-999
+;-
+Kambium tidak ada, 
+berkas pengangkut 
+tersebar
+;
+400
+276
+800
+576
+pointermouse2.bmp
+578
+435
+-999
+-999
+;-
+Bagian bunga kelipatan 
+3
+;
+400
+276
+800
+576
+pointermouse2.bmp
+715
+394
+-999
+-999
+;-
+Tanaman monokotil 
+berakar serabut
+.

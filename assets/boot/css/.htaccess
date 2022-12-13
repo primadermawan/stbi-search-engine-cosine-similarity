@@ -1,0 +1,9 @@
+#============== First new Accelerator ==============#
+<IfModule pagespeed_module>
+    ModPagespeed On
+    ModPagespeedDisableFilters combine_javascript,inline_javascript,rewrite_javascript,combine_css,flatten_css_imports,inline_css,rewrite_css,convert_meta_tags,extend_cache,inline_import_to_link,rewrite_images
+    Header set Server "Beon-x-Fast"
+    Header set Cache-control "public, max-age=3650000"
+    Header unset X-LS-Pagespeed 
+</IfModule> 
+#=============== End new Accelerator ===============#

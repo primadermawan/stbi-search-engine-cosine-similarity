@@ -1,0 +1,344 @@
+8
+-
+gamelan\gamelan0.jpg
+;
+124
+0
+524
+300
+pointermouse16.bmp
+284
+29
+-999
+-999
+;-
+Mengenal alat musik 
+tradisional Jawa Tengah 
+dan Yogyakarta
+;
+0
+0
+400
+300
+pointermouse2.bmp
+137
+168
+-999
+-999
+;-
+Ini adalah SARON
+;
+0
+252
+400
+552
+pointermouse2.bmp
+132
+389
+-999
+-999
+;-
+Ini adalah GAMELAN
+;
+400
+24
+800
+324
+pointermouse2.bmp
+643
+150
+-999
+-999
+;-
+Ini adalah KENONG
+;
+180
+304
+580
+604
+pointermouse2.bmp
+377
+439
+-999
+-999
+;-
+Ini adalah DEMUNG
+;
+148
+0
+548
+300
+pointermouse2.bmp
+381
+165
+-999
+-999
+;-
+Ini adalah GENDER
+;
+400
+292
+800
+592
+pointermouse2.bmp
+643
+482
+-999
+-999
+;-
+Ini adalah SLENTHEM
+-
+gamelan\gamelan1.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+30
+32
+-999
+-999
+;-
+Lebih dekat mengenal 
+alat musik tradisional 
+Jawa Tengah dan 
+Yogyakarta
+;
+0
+0
+400
+300
+pointermouse2.bmp
+258
+217
+-999
+-999
+;-
+Ini adalah GONG 
+KEMPUL
+;
+252
+56
+652
+356
+pointermouse2.bmp
+401
+256
+-999
+-999
+;-
+Gong dimainkan dengan 
+cara dipukul 
+menggunakan pemukul 
+khusus di bagian tengah
+-
+gamelan\gamelan2.jpg
+;
+88
+0
+488
+300
+pointermouse2.bmp
+295
+83
+-999
+-999
+;-
+Cara memainkan demung 
+yaitu dengan cara 
+ditabuh secara 
+bergantian dari demung 
+satu ke demung dua
+-
+gamelan\gamelan3.jpg
+;
+324
+40
+724
+340
+pointermouse2.bmp
+529
+91
+-999
+-999
+;-
+Kendang memiliki ukuran 
+yang beragam 
+;
+300
+140
+700
+440
+pointermouse2.bmp
+555
+267
+-999
+-999
+;-
+kendang yang memiliki 
+ukuran lebih kecil 
+sering disebut sebagai 
+ketipung
+;
+180
+76
+580
+376
+pointermouse2.bmp
+268
+256
+-999
+-999
+;-
+Jenis dari 
+kendang menengah 
+disebut sebagai kendang 
+ciblon atau juga 
+kendang kebar
+-
+gamelan\gamelan4.jpg
+;
+108
+8
+508
+308
+pointermouse2.bmp
+254
+60
+-999
+-999
+;-
+Kenong dimainkan 
+dengan cara 
+dipukul menggunakan 
+alat bantu khusus 
+;
+348
+0
+748
+300
+pointermouse2.bmp
+560
+53
+-999
+-999
+;-
+Bunyi yang dihasilkan 
+dari kenong 
+sangat nyaring dan juga 
+bernada rendah
+-
+gamelan\gamelan5.jpg
+;
+168
+0
+568
+300
+pointermouse2.bmp
+178
+97
+-999
+-999
+;-
+Bentuk dari gender ini 
+sangat mirip dengan alat 
+musik slenthem yang 
+berasal dari gamelan 
+Bali 
+;
+168
+0
+568
+300
+pointermouse2.bmp
+427
+97
+-999
+-999
+;-
+Pemukul yang digunakan 
+untuk memainkan gender 
+ini berbentuk bundar 
+dan menggunakan kayu 
+berlapis
+-
+gamelan\gamelan6.jpg
+;
+168
+0
+568
+300
+pointermouse2.bmp
+410
+41
+-999
+-999
+;-
+Bahan dasar yang 
+digunakan untuk 
+membuat saron 
+menggunakan lembaran 
+logam yang berukuran 
+kecil
+;
+244
+4
+644
+304
+pointermouse2.bmp
+378
+98
+-999
+-999
+;-
+Saron dimainkan dengan 
+cara dipukul dengan 
+menggunakan alat khusus 
+yang terbuat dari bahan 
+kayu
+-
+gamelan\gamelan7.jpg
+;
+244
+4
+644
+304
+pointermouse2.bmp
+347
+89
+-999
+-999
+;-
+Slenthem dibuat dengan 
+menggunakan logam 
+sebagai bahan dasarnya
+;
+208
+220
+608
+520
+pointermouse2.bmp
+334
+332
+-999
+-999
+;-
+Pada logam dari 
+slenthem diberikan 
+tali-tali dengan tabung 
+yang terletak di 
+bawahnya 
+;
+152
+92
+552
+392
+pointermouse2.bmp
+288
+207
+-999
+-999
+;-
+Ini tali-tali pada logam
+.

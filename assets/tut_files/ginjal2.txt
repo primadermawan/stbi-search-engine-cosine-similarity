@@ -1,0 +1,102 @@
+1
+-
+ginjal2\ginjal20.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+107
+58
+-999
+-999
+;-
+Mengenal bagian-bagian 
+ginjal
+;
+188
+8
+588
+308
+pointermouse2.bmp
+398
+35
+-999
+-999
+;-
+Ini adalah penampang 
+melintang ginjal
+;
+188
+8
+588
+308
+pointermouse2.bmp
+325
+171
+-999
+-999
+;-
+Ini adalah korteks
+;
+188
+8
+588
+308
+pointermouse2.bmp
+256
+261
+-999
+-999
+;-
+Ini adalah arteri ginjal
+;
+76
+148
+476
+448
+pointermouse2.bmp
+254
+303
+-999
+-999
+;-
+Ini adalah vena ginjal
+;
+48
+296
+448
+596
+pointermouse2.bmp
+271
+433
+-999
+-999
+;-
+Ini adalah ureter
+;
+308
+104
+708
+404
+pointermouse2.bmp
+398
+266
+-999
+-999
+;-
+Ini adalah pelvis ginjal
+;
+336
+0
+736
+300
+pointermouse2.bmp
+396
+97
+-999
+-999
+;-
+Ini adalah Medula
+.

@@ -1,0 +1,107 @@
+1
+-
+hiragana aiueo\hiragana aiueo0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+151
+39
+-999
+-999
+;-
+Huruf hiragana jepang
+;
+0
+0
+400
+300
+pointermouse2.bmp
+165
+82
+-999
+-999
+;-
+Hiragana adalah alfabet 
+asli jepang untuk 
+menuliskan kata-kata 
+asli bahasa jepang
+;
+0
+148
+400
+448
+pointermouse2.bmp
+65
+216
+-999
+-999
+;-
+Ini adalah alfabet A (a) 
+menggunakan hiragana
+;
+0
+148
+400
+448
+pointermouse2.bmp
+244
+224
+-999
+-999
+;-
+Ini adalah alfabet I (i) 
+;
+196
+132
+596
+432
+pointermouse2.bmp
+387
+229
+-999
+-999
+;-
+Ini adalah alfabet U (u)
+;
+196
+132
+596
+432
+pointermouse2.bmp
+539
+210
+-999
+-999
+;-
+Ini adalah alfabet E (e)
+;
+400
+152
+800
+452
+pointermouse2.bmp
+700
+259
+-999
+-999
+;-
+Ini adalah alfabet O (o)
+;
+168
+232
+568
+532
+pointermouse16.bmp
+321
+393
+-999
+-999
+;-
+Kelima alfabet a,i,u,e,o 
+tersebut ditulis 
+menggunakan hiragana. 
+cukup mudah bukan?
+.

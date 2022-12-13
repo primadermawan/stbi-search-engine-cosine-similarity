@@ -1,0 +1,82 @@
+1
+-
+Struktur virus Covid-19\Struktur virus Covid-190.jpg
+;
+400
+0
+800
+300
+pointermouse16.bmp
+523
+31
+-999
+-999
+;-
+Ini adalah spike 
+glycoprotein (S)
+;
+400
+0
+800
+300
+pointermouse16.bmp
+641
+134
+-999
+-999
+;-
+Ini adalah Membrane 
+protein (M)
+;
+400
+160
+800
+460
+pointermouse16.bmp
+688
+223
+-999
+-999
+;-
+Ini adalah envelope 
+protein (E)
+;
+400
+164
+800
+464
+pointermouse16.bmp
+733
+302
+-999
+-999
+;-
+Ini adalah 
+Hemagglutinin esterase 
+(HE)
+;
+400
+164
+800
+464
+pointermouse16.bmp
+482
+352
+-999
+-999
+;-
+Ini adalah 
+Nucleoprotein (N)
+;
+368
+236
+768
+536
+pointermouse16.bmp
+501
+440
+-999
+-999
+;-
+Ini adalah viral RNA
+.

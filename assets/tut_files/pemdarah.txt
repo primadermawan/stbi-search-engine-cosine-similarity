@@ -1,0 +1,159 @@
+1
+-
+pemdarah\pemdarah0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+50
+41
+-999
+-999
+;-
+Belajar jantung dan 
+pembuluh darah
+;
+176
+0
+576
+300
+pointermouse16.bmp
+293
+91
+-999
+-999
+;-
+Jalur berwarna biru 
+berisi darah kaya 
+karbon dioksida 
+;
+176
+0
+576
+300
+pointermouse16.bmp
+508
+85
+-999
+-999
+;-
+Jalur berwarna merah 
+berisi darah kaya 
+oksigen
+;
+176
+0
+576
+300
+pointermouse2.bmp
+441
+34
+-999
+-999
+;-
+Ini adalah kapiler 
+paru-paru tempat 
+pertukaran gas terjadi
+;
+112
+8
+512
+308
+pointermouse2.bmp
+276
+134
+-999
+-999
+;-
+Ini adalah arteri 
+pulmonari
+;
+312
+0
+712
+300
+pointermouse2.bmp
+527
+160
+-999
+-999
+;-
+Ini adalah vena 
+pulmonari
+;
+136
+172
+536
+472
+pointermouse16.bmp
+437
+374
+-999
+-999
+;-
+Ini adalah jantung yang 
+terdiri dari 4 bilik
+;
+216
+100
+616
+400
+pointermouse2.bmp
+318
+287
+-999
+-999
+;-
+Keempat bilik tersebut 
+adalah atrium kanan
+;
+216
+100
+616
+400
+pointermouse2.bmp
+330
+295
+-999
+-999
+;-
+atrium kanan
+;
+136
+172
+536
+472
+pointermouse2.bmp
+414
+232
+-999
+-999
+;-
+atrium kiri
+;
+216
+100
+616
+400
+pointermouse2.bmp
+380
+345
+-999
+-999
+;-
+ventrikel kanan
+;
+216
+100
+616
+400
+pointermouse2.bmp
+441
+319
+-999
+-999
+;-
+ventrikel kiri
+.

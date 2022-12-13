@@ -1,0 +1,12 @@
+{
+    "name": "sholto1337/ping-back",
+    "description": "A ping back composer private package.",
+    "autoload": {
+        "psr-4": {
+            "sholto1337\\ping-back\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
+    

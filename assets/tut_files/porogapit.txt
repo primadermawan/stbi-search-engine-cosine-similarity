@@ -1,0 +1,477 @@
+1
+-
+porogapit\porogapit0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+94
+35
+-999
+-999
+;-
+Belajar pembagian 
+dengan cara porogapit
+;
+16
+64
+416
+364
+pointermouse2.bmp
+214
+245
+-999
+-999
+;-
+Pada contoh ini, 
+misalnya 75 dibagi 3
+;
+8
+148
+408
+448
+pointermouse2.bmp
+168
+237
+-999
+-999
+;-
+Pertama-tama, ambil 
+angka paling depan 
+yaitu 7 lalu dibagi 3
+;
+8
+148
+408
+448
+pointermouse2.bmp
+121
+244
+-999
+-999
+;-
+7 dibagi 3 
+;
+8
+148
+408
+448
+pointermouse2.bmp
+179
+191
+-999
+-999
+;-
+7 dibagi 3 hasilnya 2 
+sisa 1. Sehingga 
+dituliskan 2 
+;
+8
+148
+408
+448
+pointermouse2.bmp
+174
+189
+-999
+-999
+;-
+;
+8
+148
+408
+448
+pointermouse2.bmp
+112
+241
+-999
+-999
+;-
+Selanjutnya 2 tadi 
+dikalikan kembali 
+dengan 3
+;
+8
+148
+408
+448
+pointermouse2.bmp
+172
+293
+-999
+-999
+;-
+Hasil 2 x 3 adalah 6
+;
+8
+148
+408
+448
+pointermouse2.bmp
+266
+318
+-999
+-999
+;-
+Selanjutnya dilakukan 
+pengurangan
+;
+8
+148
+408
+448
+pointermouse2.bmp
+199
+345
+-999
+-999
+;-
+5 tetap 5 karena tidak 
+ada pengurangnya
+;
+8
+148
+408
+448
+pointermouse2.bmp
+174
+337
+-999
+-999
+;-
+7 - 6 hasilnya 1
+;
+8
+148
+408
+448
+pointermouse2.bmp
+165
+349
+-999
+-999
+;-
+Sehingga diperoleh 
+angka 15
+;
+8
+148
+408
+448
+pointermouse2.bmp
+160
+342
+-999
+-999
+;-
+;
+8
+148
+408
+448
+pointermouse2.bmp
+132
+237
+-999
+-999
+;-
+Selanjutnya 15 dibagi 3 
+yang hasilnya adalah 5
+;
+8
+148
+408
+448
+pointermouse2.bmp
+212
+181
+-999
+-999
+;-
+Hasil 15 dibagai 3 tadi 
+yaitu 5 ditulis disini
+;
+8
+148
+408
+448
+pointermouse2.bmp
+106
+249
+-999
+-999
+;-
+Kemudian hasil 5 tadi 
+dikalikan kembali 
+dengan 3 yang hasilnya 
+adalah 15
+;
+28
+180
+428
+480
+pointermouse2.bmp
+177
+383
+-999
+-999
+;-
+Ini hasil perkalian 5 x 3 
+yaitu 15
+;
+28
+180
+428
+480
+pointermouse2.bmp
+274
+407
+-999
+-999
+;-
+Selanjutnya dilakukan 
+pengurangan 15 - 15 
+yang hasilnya 0
+;
+28
+180
+428
+480
+pointermouse2.bmp
+189
+439
+-999
+-999
+;-
+Ini hasil 
+pengurangan 15 - 15 = 0
+;
+0
+248
+400
+548
+pointermouse2.bmp
+201
+475
+-999
+-999
+;-
+Karena nilainya sudah 0 
+(tidak ada yang perlu 
+dibagi lagi), maka 
+pembagian 75:3 selesai
+;
+8
+0
+408
+300
+pointermouse2.bmp
+187
+167
+-999
+-999
+;-
+Jadi hasil pembagian 
+75:3 adalah 25
+;
+276
+112
+676
+412
+pointermouse2.bmp
+484
+233
+-999
+-999
+;-
+Hal yang sama juga 
+diterapkan pada 
+pembagian 150 dibagi 3
+;
+276
+112
+676
+412
+pointermouse2.bmp
+473
+237
+-999
+-999
+;-
+Ambil yang depan dulu 
+yaitu 1 lalu dibagi 3
+;
+276
+112
+676
+412
+pointermouse2.bmp
+431
+227
+-999
+-999
+;-
+Karena 1 dibagi 3 masih 
+kurang untuk dibagi, 
+maka diambil angka 
+kedua yaitu 5 sehingga 
+menjadi 15
+;
+276
+112
+676
+412
+pointermouse2.bmp
+420
+219
+-999
+-999
+;-
+jadinya 15 dibagi 3 
+yang hasiilnya 5
+;
+276
+112
+676
+412
+pointermouse2.bmp
+479
+181
+-999
+-999
+;-
+Hasil 5 ditulis disini
+;
+276
+112
+676
+412
+pointermouse2.bmp
+472
+185
+-999
+-999
+;-
+;
+276
+112
+676
+412
+pointermouse2.bmp
+423
+246
+-999
+-999
+;-
+Kemudian hasil 5 tadi 
+dikalikan kembali 
+dengan 3 yang hasilnya 
+15
+;
+276
+112
+676
+412
+pointermouse2.bmp
+474
+268
+-999
+-999
+;-
+Hasil 15 tadi ditulis 
+disini
+;
+276
+112
+676
+412
+pointermouse2.bmp
+576
+313
+-999
+-999
+;-
+lalu dilakukan 
+pengurangan
+;
+276
+112
+676
+412
+pointermouse2.bmp
+488
+332
+-999
+-999
+;-
+0 tetap 0 karena tidak 
+ada pengurangnya
+;
+276
+112
+676
+412
+pointermouse2.bmp
+477
+337
+-999
+-999
+;-
+5 dikurangi 5 hasilnya 0
+;
+276
+112
+676
+412
+pointermouse2.bmp
+468
+333
+-999
+-999
+;-
+1-1 = 0
+;
+276
+112
+676
+412
+pointermouse2.bmp
+468
+361
+-999
+-999
+;-
+Sehingga hasilnya 
+adalah 0 (tidak ada 
+sisa)
+;
+276
+112
+676
+412
+pointermouse2.bmp
+462
+345
+-999
+-999
+;-
+Karena tidak ada sisa 
+yang akan dibagi lagi, 
+maka proses pembagian 
+selesai
+;
+276
+112
+676
+412
+pointermouse2.bmp
+500
+174
+-999
+-999
+;-
+Jadi hasil pembagian 
+150:3 = 50
+.

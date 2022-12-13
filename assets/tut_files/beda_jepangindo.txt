@@ -1,0 +1,128 @@
+1
+-
+beda jepangindo\beda jepangindo0.jpg
+;
+132
+0
+532
+300
+pointermouse16.bmp
+247
+34
+-999
+-999
+;-
+Perbedaan struktur 
+pada bahasa Jepang dan 
+bahasa Indonesia
+;
+124
+0
+524
+300
+pointermouse2.bmp
+462
+25
+-999
+-999
+;-
+Bahasa Jepang 
+menggunakan urutan 
+yang berkebalikan 
+dengan bahasa 
+Indonesia
+;
+296
+0
+696
+300
+pointermouse2.bmp
+558
+154
+-999
+-999
+;-
+Contohnya, "bunga 
+merah"
+;
+0
+12
+400
+312
+pointermouse2.bmp
+188
+173
+-999
+-999
+;-
+Di bahasa Jepang 
+menjadi akai hana 
+(merah bunga)
+;
+400
+184
+800
+484
+pointermouse2.bmp
+522
+351
+-999
+-999
+;-
+"Orang Indonesia" pada 
+bahasa Indonesia
+;
+0
+180
+400
+480
+pointermouse2.bmp
+126
+355
+-999
+-999
+;-
+Menjadi Indonesia jin 
+(Indonesia orang)
+;
+400
+304
+800
+604
+pointermouse2.bmp
+612
+540
+-999
+-999
+;-
+"Masakan Jepang" pada 
+bahasa Indonesia
+;
+0
+304
+400
+604
+pointermouse2.bmp
+142
+525
+-999
+-999
+;-
+Pada bahasa Jepang 
+menjadi Nihon ryoori 
+(Jepang masakan)
+;
+248
+304
+648
+604
+pointermouse16.bmp
+405
+447
+-999
+-999
+;-
+Maknanya sama namun 
+memiliki perbedaan 
+pelafalan
+.

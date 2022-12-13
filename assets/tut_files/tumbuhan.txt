@@ -1,0 +1,156 @@
+1
+-
+tumbuhan\tumbuhan0.jpg
+;
+28
+168
+428
+468
+pointermouse16.bmp
+71
+240
+-999
+-999
+;-
+Bagian-bagian tumbuhan
+;
+0
+0
+400
+300
+pointermouse2.bmp
+281
+168
+-999
+-999
+;-
+Ini adalah daun
+;
+0
+0
+400
+300
+pointermouse2.bmp
+166
+100
+-999
+-999
+;-
+Jika diperbesar, 
+seperti ini bentuk daun
+;
+268
+0
+668
+300
+pointermouse2.bmp
+373
+54
+-999
+-999
+;-
+Ini bunga
+;
+268
+0
+668
+300
+pointermouse2.bmp
+542
+79
+-999
+-999
+;-
+Ini bentuk bunga jika 
+diperbesar
+;
+336
+136
+736
+436
+pointermouse2.bmp
+398
+286
+-999
+-999
+;-
+Ini biji yang 
+menjadi calon buah
+;
+336
+136
+736
+436
+pointermouse2.bmp
+548
+308
+-999
+-999
+;-
+Seperti ini bentuk biji 
+calon buah jika 
+diperbesar gambarnya
+;
+336
+136
+736
+436
+pointermouse2.bmp
+619
+292
+-999
+-999
+;-
+Ini bagian dalamnya biji
+;
+0
+304
+400
+604
+pointermouse2.bmp
+318
+465
+-999
+-999
+;-
+Ini akar tumbuhan
+;
+0
+304
+400
+604
+pointermouse2.bmp
+116
+440
+-999
+-999
+;-
+Ini akar tumbuhan jika 
+diperbesar gambarnya
+;
+312
+212
+712
+512
+pointermouse2.bmp
+357
+371
+-999
+-999
+;-
+Ini batang tumbuhan
+;
+288
+304
+688
+604
+pointermouse2.bmp
+536
+466
+-999
+-999
+;-
+Ini penampakan batang 
+tumbuhan jika 
+diperbesar
+.
